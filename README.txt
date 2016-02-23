@@ -1,1 +1,0 @@
-This is the repository for all of my work in MissionBit.
